@@ -14,7 +14,7 @@ nl:
  contentDir: content/nl
  title: Huwelijksfeestuitnodiging
  params:
-   description: Huwelijksfeestuitnodiging Sujin & Wouter
+   description: Sujin & Wouter nodigen jullie uit voor hun huwelijksfeest.
  menu:
    main:
      - name: Uitnodiging
@@ -31,7 +31,7 @@ ko:
  contentDir: content/ko
  title: 결혼 축하 초대장
  params:
-   description: 결혼식에 초대합니다
+   description: 수진 & 워우터 결혼식에 초대합니다
  menu:
    main:
      - name: 초대장
