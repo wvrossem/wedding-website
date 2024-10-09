@@ -3,18 +3,18 @@
 #   The `weight` parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Invitation
     url: /#top
     weight: 10
-  - name: Features
-    url: /#features
+  - name: Wedding Details
+    url: /#details
     weight: 20
-  - name: Solutions
-    url: /#solutions
+  - name: RSVP
+    url: /#rsvp
     weight: 30
-  - name: Resources
-    weight: 40
-    hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
+  # - name: Resources
+  #   weight: 40
+  #   hasChildren: true
+  # - parent: Resources
+  #   name: Blog
+  #   url: blog/

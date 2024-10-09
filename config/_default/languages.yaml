@@ -6,17 +6,40 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+nl:
+ languageCode: nl
+ contentDir: content/nl
+ title: Huwelijksfeestuitnodiging
+ params:
+   description: Huwelijksfeestuitnodiging Sujin & Wouter
+ menu:
+   main:
+     - name: Uitnodiging
+       url: '#top'
+       weight: 10
+     - name: Details
+       url: /#details
+       weight: 20
+     - name: RSVP
+       url: /#rsvp
+       weight: 30
+ko:
+ languageCode: ko
+ contentDir: content/ko
+ title: 결혼 축하 초대장
+ params:
+   description: 결혼식에 초대합니다
+ menu:
+   main:
+     - name: 초대장
+       url: '#top'
+       weight: 10
+     - name: 결혼 세부
+       url: /#details
+       weight: 20
+     - name: RSVP
+       url: /#rsvp
+       weight: 30
