@@ -47,14 +47,14 @@ sections:
           feature_icon: paper-airplane
           features:
             - "Dates: 26-27 April, 2025"
-            - "Venue: Seocheon, South Korea"
+            - "Venue: TBC, South Korea"
           # Upload image to `assets/media/` and reference the filename here
           image: bg-picture.jpg
         - title: Venue & Accomodation
           text: "Join us at a picturesque countryside venue with accommodation support provided."
           feature_icon: paper-airplane
           features:
-            - "Location: Seocheon, South Korea"
+            - "Location: South Korea"
             - "More details will be provided soon"
           # Upload image to `assets/media/` and reference the filename here
           image: hanok-hotel.jpeg

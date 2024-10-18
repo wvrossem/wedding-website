@@ -47,14 +47,14 @@ sections:
           feature_icon: paper-airplane
           features:
             - "Datum: 26 en 27 april, 2025"
-            - "Plaats: Seocheon, Zuid-Korea"
+            - "Plaats: Zuid-Korea"
           # Upload image to `assets/media/` and reference the filename here
           image: bg-picture.jpg
         - title: Plaats & Accommodatie
           text: "Vier met ons mee op een prachtige locatie. "
           feature_icon: paper-airplane
           features:
-            - "Plaats: Seocheon, South Korea"
+            - "Plaats: South Korea"
             - "We geven binnenkort meer info!"
           # Upload image to `assets/media/` and reference the filename here
           image: hanok-hotel.jpeg

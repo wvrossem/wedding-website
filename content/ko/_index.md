@@ -47,14 +47,14 @@ sections:
           feature_icon: paper-airplane
           features:
             - "결혼식 날짜: 2025년 04월 26일"
-            - "장소 위치: 서천군 (추후 안내 예정)"
+            - "장소 위치: 추후 안내 예정"
           # Upload image to `assets/media/` and reference the filename here
           image: bg-picture.jpg
         - title: 장소 및 숙박
           text: "아름다운 시골 장소에서 함께해 주시길 바라며."
           feature_icon: paper-airplane
           features:
-            - "장소 위치: 서천군 (추후 안내 예정)"
+            - "장소 위치: 추후 안내 예정"
             # - "More details will be provided soon"
           # Upload image to `assets/media/` and reference the filename here
           image: hanok-hotel.jpeg
