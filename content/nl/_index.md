@@ -51,7 +51,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: bg-picture.jpg
         - title: Plaats & Accommodatie
-          text: "Vier met ons mee op een prachtige locatie. "
+          text: ""
           feature_icon: paper-airplane
           features:
             - "Plaats: South Korea"

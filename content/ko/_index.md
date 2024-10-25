@@ -51,7 +51,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: bg-picture.jpg
         - title: 장소 및 숙박
-          text: "아름다운 시골 장소에서 함께해 주시길 바라며."
+          text: ""
           feature_icon: paper-airplane
           features:
             - "장소 위치: 추후 안내 예정"

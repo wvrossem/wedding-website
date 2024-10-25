@@ -51,7 +51,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: bg-picture.jpg
         - title: Venue & Accomodation
-          text: "Join us at a picturesque countryside venue with accommodation support provided."
+          text: ""
           feature_icon: paper-airplane
           features:
             - "Location: South Korea"
