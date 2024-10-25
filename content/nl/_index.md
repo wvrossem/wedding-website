@@ -57,7 +57,7 @@ sections:
             - "Plaats: South Korea"
             - "We geven binnenkort meer info!"
           # Upload image to `assets/media/` and reference the filename here
-          image: hanok-hotel.jpeg
+          image: bg-ko-wedding.jpg
         - title: Hoe naar de locatie te komen
           text: We zijn enthousiast om met jullie te vieren in Zuid-Korea! Hier is wat handige informatie voor je reisplanning. Meer details volgen snel.
           feature_icon: paper-airplane
@@ -66,7 +66,7 @@ sections:
             - "Stap 2: Van Incheon International Airport naar Seoul. Per trein, luchthavenlimousinebus, of taxi."
             - "Stap 3: Naar de trouwlocatie. We regelen een verzamelpunt voor groepsvervoer naar de locatie."
           # Upload image to `assets/media/` and reference the filename here
-          image: bg-ko-wedding.jpg
+          image: south-korea-map.png
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"     

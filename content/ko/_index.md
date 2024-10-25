@@ -57,13 +57,13 @@ sections:
             - "장소 위치: 추후 안내 예정"
             # - "More details will be provided soon"
           # Upload image to `assets/media/` and reference the filename here
-          image: hanok-hotel.jpeg
+          image: bg-ko-wedding.jpg
         - title: 장소에 가는 방법
           text: 추후 안내 예정
           feature_icon: paper-airplane
           # features:
           # Upload image to `assets/media/` and reference the filename here
-          image: bg-ko-wedding.jpg
+          image: south-korea-map.png
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"     

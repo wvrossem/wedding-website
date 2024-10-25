@@ -57,7 +57,7 @@ sections:
             - "Location: South Korea"
             - "More details will be provided soon"
           # Upload image to `assets/media/` and reference the filename here
-          image: hanok-hotel.jpeg
+          image: bg-ko-wedding.jpg
         - title: Getting to the venue
           text: We are excited to celebrate with you in South Korea! Here’s some helpful information for your journey planning. More details coming soon.
           feature_icon: paper-airplane
@@ -66,7 +66,7 @@ sections:
             - "Step 2: From Incheon International Airport to Seoul. Via rail, airport limousine bus, or taxi."
             - "Step 3: Getting to the Wedding Venue. We’ll arrange a meeting point for group transportation to the venue."
           # Upload image to `assets/media/` and reference the filename here
-          image: bg-ko-wedding.jpg
+          image: south-korea-map.png
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"     
