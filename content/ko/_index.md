@@ -13,7 +13,7 @@ sections:
       title: "수진 & 워우터"
       text: 저희 결혼식에 초대합니다
       primary_action:
-        text: '2025년 04월 26일'
+        text: '2025년 04월 27일'
         url: '#details'
         icon: chevron-double-down
     design:
@@ -46,24 +46,25 @@ sections:
           text: 귀한 시간을 내주셔서 축하해 주시면 감사하겠습니다.
           feature_icon: paper-airplane
           features:
-            - "결혼식 날짜: 2025년 04월 26일"
-            - "장소 위치: 추후 안내 예정"
+            - "결혼식 날짜: 2025년 04월 27일 오후 2시"
+            - "장소 위치: 낙성대전통혼례식장"
           # Upload image to `assets/media/` and reference the filename here
           image: bg-picture.jpg
-        - title: 장소 및 숙박
+        - title: 장소
           text: ""
           feature_icon: paper-airplane
           features:
-            - "장소 위치: 추후 안내 예정"
+            - "장소 위치: 낙성대전통혼례식장 (서울 관악구 낙성대로 77 봉천동 227)"
+            - "네이버 지도: https://naver.me/Fk5sfp2s"
             # - "More details will be provided soon"
           # Upload image to `assets/media/` and reference the filename here
-          image: bg-ko-wedding.jpg
-        - title: 장소에 가는 방법
-          text: 추후 안내 예정
-          feature_icon: paper-airplane
+          image: nakseongdae.jpg
+        # - title: 장소에 가는 방법
+          # text: 추후 안내 예정
+          # feature_icon: paper-airplane
           # features:
           # Upload image to `assets/media/` and reference the filename here
-          image: south-korea-map.png
+          # image: south-korea-map.png
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"     
