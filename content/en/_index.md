@@ -13,7 +13,7 @@ sections:
       title: "Sujin & Wouter"
       text: Invite You to their Wedding Celebration
       primary_action:
-        text: 'On April 26-27, 2025'
+        text: 'On April 26, 2025, Bucheon Hanok Village'
         url: '#details'
         icon: chevron-double-down
     design:
@@ -43,31 +43,33 @@ sections:
     content:
       items:
         - title: We invite you to our wedding celebration
-          text: Join our celebration on 26-27 April, 2025 in South Korea.
+          text: Join our celebration on 26 April, 2025 in South Korea.
           feature_icon: paper-airplane
           features:
-            - "Dates: 26 April (optional pre-meeting) and 27 April, 2025 (main wedding ceremony)"
-            - "Wedding Ceremony Venue: Seoul, South Korea - Nakseongdae Traditional Wedding Hall"
+            - "Dates: Saturday, 26 April, 2025 - 12h00"
+            - "Wedding Ceremony Venue: Bucheon Hanok Village"
+            - "Google Maps: https://maps.app.goo.gl/N2yqpSjp6s9qMFAp6"
           # Upload image to `assets/media/` and reference the filename here
           image: bg-picture.jpg
         - title: Wedding ceremony venue
           text: ""
           feature_icon: paper-airplane
           features:
-            - "Date and time: Sunday, 27 April, 2025 - 14h00"
-            - "Location: 낙성대전통혼례식장 (Nakseongdae Traditional Wedding Hall)"
-            - "Address: 서울 관악구 낙성대로 77 봉천동 227 (225 Bongcheon-dong, Gwanak-gu, Seoul, South Korea)"
-            - "Google Maps: https://maps.app.goo.gl/rshZS7d2cT4PN4wb8"
-            - "Naver Maps: https://naver.me/Fk5sfp2s"
-            - "Kakao Maps: https://kko.kakao.com/PHw75eKKrN"
+            - "Date and time: Saturday, 26 April, 2025 - 12h00"
+            - "Location: 부천한옥체험마을 (Bucheon Hanok Village)"
+            - "Address: 경기도 부천시 길주로1 (상동 529-2)"
+            - "Metro stop: Seoul Metro Line 7, Stop 삼산체육관 (757, Samsan Gymnasium)"
+            - "Google Maps: https://maps.app.goo.gl/N2yqpSjp6s9qMFAp6"
+            - "Naver Maps: https://naver.me/5Bcqqp9i"
+            - "Kakao Maps: https://place.map.kakao.com/26093115"
           # Upload image to `assets/media/` and reference the filename here
-          image: nakseongdae.jpg
+          image: bucheon-hanok-village/korea-tourism.png
         - title: Wedding reception
           text: ""
           feature_icon: paper-airplane
           features:
             - "The wedding reception will take place immediately after the ceremony."
-            - "Date and time: Sunday, 27 April, 2025, after the wedding ceremony"
+            - "Date and time: After the wedding ceremony"
             - "Location: To be confirmed"
           # Upload image to `assets/media/` and reference the filename here
           image: 8095743451_afdc95d75b_o.jpg
@@ -76,10 +78,10 @@ sections:
           feature_icon: paper-airplane
           features:
             - "Travel to South Korea: via Incheon International Airport (ICN), the main airport serving Seoul. Be here a day or two in advance."
-            - "On Saturday, April 26, 2025, we will be staying in Songdo, Incheon, near the Songdo Central Park area. Feel free to meet us there and book accommodation in the neighborhood. Google Maps link: https://maps.app.goo.gl/xczv4udqwYuj7x186"
-            - "Hanbok rentals (traditional Korean clothing) are available in Songdo or in central Seoul. We’ll be wearing them, but they’re completely optional. More information will be provided soon!"
-            - "Getting to the wedding venue: The wedding venue is reachable via public transportation. Additionally, we'll arrange a meeting point for group transportation to the venue from Songdo, Incheon. "
-          image: map.png
+            - "We will be staying in a hotel near the Bucheon Hanok Village. Feel free to meet us there and book accommodation in the neighborhood."
+            - "You can also easily get to Bucheon Hanok Village by subway from central Seoul—approximately an hour away (Seoul Metro Line 7, Stop 삼산체육관 (757, Samsan Gymnasium))."
+            - "Hanbok rentals (traditional Korean clothing) are available near the Bucheon Hanok Village or in central Seoul. We’ll be wearing them, but they’re completely optional. More information will be provided soon!"
+          image: map-bucheon.png
         - title: Ceremony details
           text: "Image from https://www.gwanakcyw.or.kr:6015/?c=user&mcd=gkd0002"
           feature_icon: chevron-right

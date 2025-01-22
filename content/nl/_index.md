@@ -13,7 +13,7 @@ sections:
       title: "Sujin & Wouter"
       text: Nodigen jullie uit voor hun huwelijksfeest
       primary_action:
-        text: 'Op 26 en 27 april, 2025'
+        text: 'Op 26 april, 2025, Bucheon Hanok Village'
         url: '#details'
         icon: chevron-double-down
     design:
@@ -43,31 +43,33 @@ sections:
     content:
       items:
         - title: Wij nodigen jullie uit voor ons bruiloftsfeest.
-          text: Vier met ons mee op 26 en 27 April, 2025 in Zuid-Korea.
+          text: Vier met ons mee op 26 April, 2025 in Zuid-Korea.
           feature_icon: paper-airplane
           features:
-            - "Data: 26 April (optioneel) en 27 April, 2025 (huwelijksceremonie)"
-            - "Plaats: Seoul, Zuid-Korea - Nakseongdae Traditional Wedding Hall"
+            - "Datum en tijdstip: Zaterdag, 26 April, 2025 - 12h00"
+            - "Plaats: Bucheon Hanok Village"
+            - "Google Maps: https://maps.app.goo.gl/N2yqpSjp6s9qMFAp6"
           # Upload image to `assets/media/` and reference the filename here
           image: bg-picture.jpg
         - title: Plaats van huwelijksceremonie
           text: ""
           feature_icon: paper-airplane
           features:
-            - "Datum en tijdstip: Sunday, 27 April, 2025 - 14h00"
-            - "Location: 낙성대전통혼례식장 (Nakseongdae Traditional Wedding Hall)"
-            - "Address: 서울 관악구 낙성대로 77 봉천동 227 (225 Bongcheon-dong, Gwanak-gu, Seoul, South Korea)"
-            - "Google Maps: https://maps.app.goo.gl/rshZS7d2cT4PN4wb8"
-            - "Naver Maps: https://naver.me/Fk5sfp2s"
-            - "Kakao Maps: https://kko.kakao.com/PHw75eKKrN"
+            - "Datum en tijdstip: Zaterdag, 26 April, 2025 - 12h00"
+            - "Location: 부천한옥체험마을 (Bucheon Hanok Village)"
+            - "Address: 경기도 부천시 길주로1 (상동 529-2)"
+            - "Metro stop: Seoul Metro Line 7, Stop 삼산체육관 (757, Samsan Gymnasium)"
+            - "Google Maps: https://maps.app.goo.gl/N2yqpSjp6s9qMFAp6"
+            - "Naver Maps: https://naver.me/5Bcqqp9i"
+            - "Kakao Maps: https://place.map.kakao.com/26093115"
           # Upload image to `assets/media/` and reference the filename here
-          image: nakseongdae.jpg
+          image: bucheon-hanok-village/korea-tourism.png
         - title: Receptie
           text: ""
           feature_icon: paper-airplane
           features:
             - "De huwelijksreceptie vindt direct na de ceremonie plaats."
-            - "Datum en tijd: Zondag 27 april 2025, na de huwelijksceremonie."
+            - "Datum en tijd: Zaterdag 26 april 2025, na de huwelijksceremonie."
             - "Locatie: Wordt nog bevestigd."
           # Upload image to `assets/media/` and reference the filename here
           image: 8095743451_afdc95d75b_o.jpg
@@ -76,11 +78,11 @@ sections:
           feature_icon: paper-airplane
           features:
             - "Reis naar Zuid-Korea: via de Incheon International Airport (ICN), de belangrijkste luchthaven die Seoul bedient. Kom een dag of twee van tevoren."
-            - "Op zaterdag 26 april 2025 zullen we verblijven in Songdo, Incheon, vlakbij het Songdo Central Park. Je kan ons daar al ontmoeten en accommodatie in de buurt te boeken. Google Maps link: https://maps.app.goo.gl/xczv4udqwYuj7x186"
-            - "Hanbokverhuur (traditionele Koreaanse kleding) is beschikbaar in Songdo of in het centrum van Seoul. Wij zullen ze dragen, maar het is volledig optioneel. Meer informatie volgt binnenkort!"
-            - "Naar de trouwlocatie: De trouwlocatie is bereikbaar met het openbaar vervoer. Daarnaast regelen we een verzamelpunt voor groepsvervoer naar de locatie vanuit Songdo, Incheon."
+            - "We verblijven in een hotel in de buurt van Bucheon Hanok Village. Je kan ons daar al ontmoeten en accommodatie in de buurt te boeken."
+            - "Naar de trouwlocatie: De trouwlocatie is bereikbaar met het openbaar vervoer. (Seoul Metro Line 7, Stop 삼산체육관 (757, Samsan Gymnasium))"
+            - "Hanbokverhuur (traditionele Koreaanse kleding) is beschikbaar in de buurt van de Bucheon Hanok Village of in het centrum van Seoul. Wij zullen ze dragen, maar het is volledig optioneel. Meer informatie volgt binnenkort!"
           # Upload image to `assets/media/` and reference the filename here
-          image: map.png
+          image: map-bucheon.png
         - title: Ceremonie uitleg
           text: "Afbeelding van https://www.gwanakcyw.or.kr:6015/?c=user&mcd=gkd0002"
           feature_icon: chevron-right

@@ -13,7 +13,7 @@ sections:
       title: "수진 & 워우터"
       text: 저희 결혼식에 초대합니다
       primary_action:
-        text: '2025년 04월 27일'
+        text: '2025년 04월 26일, 부천한옥체험마을'
         url: '#details'
         icon: chevron-double-down
     design:
@@ -46,19 +46,20 @@ sections:
           text: 귀한 시간을 내주셔서 축하해 주시면 감사하겠습니다.
           feature_icon: paper-airplane
           features:
-            - "결혼식 날짜: 2025년 04월 27일 오후 2시"
-            - "장소 위치: 낙성대전통혼례식장"
+            - "결혼식 날짜: 2025년 04월 26일 오후 12시"
+            - "장소 위치: 부천한옥체험마을"
           # Upload image to `assets/media/` and reference the filename here
           image: bg-picture.jpg
         - title: 장소
           text: ""
           feature_icon: paper-airplane
           features:
-            - "장소 위치: 낙성대전통혼례식장 (서울 관악구 낙성대로 77 봉천동 227)"
-            - "네이버 지도: https://naver.me/Fk5sfp2s"
+            - "장소 위치: 부천한옥체험마을 - 경기도 부천시 길주로1 (상동 529-2)"
+            - "네이버 지도: https://naver.me/5Bcqqp9i"
+            - "지카카오맵: https://place.map.kakao.com/26093115"
             # - "More details will be provided soon"
           # Upload image to `assets/media/` and reference the filename here
-          image: nakseongdae.jpg
+          image: bucheon-hanok-village/korea-tourism.png
         # - title: 장소에 가는 방법
           # text: 추후 안내 예정
           # feature_icon: paper-airplane
