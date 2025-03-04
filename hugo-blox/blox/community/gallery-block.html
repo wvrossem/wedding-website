@@ -1,0 +1,56 @@
+{{/* My Custom Hugo Blox */}}
+{{/* https://hugoblox.com */}}
+{{/*  https://tailwindflex.com/@reuben-enahoro/image-cards  */}}
+
+{{/* Initialise the block */}}
+
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{/* Your Hugo variables */}}
+{{/* Access custom front matter content via `$block.content`. */}}
+{{/* E.g. access a `title` field via `$block.content.title`. */}}
+{{/* Pipe the field to `$page.RenderString` to parse it as Markdown. */}}
+{{ $title := $block.content.title | $page.RenderString }}
+{{ $folder := $block.content.folder }}
+{{ $filter := images.Process "resize 500x webp q90" }}
+
+{{/* Add your block layout below */}}
+{{/* Styles (in the form of vanilla CSS) can be added to the CSS file. */}}
+{{/* Tailwind styles can optionally be used with the extra step of compiling Tailwind. */}}
+{{/* Access custom front matter design options via `$block.design`. */}}
+{{/* E.g. access a `show_title` field via `$block.design.show_title`. */}}
+
+{{/*  <section class="flex flex-col gap-10 w-full justify-center">
+  <h1 class="text-2xl text-center uppercase font-bold">{{ $title | default "Photo Gallery" }}</h1>
+  <section class="flex flex-wrap gap-10 w-full justify-center items-center">
+    {{ $images := resources.Match $folder }}
+    {{ range $images }}
+      {{ with . | images.Filter $filter }}
+        <div class="relative group w-80">
+          <span class="flex flex-col justify-center items-center">
+            <img src="{{ .RelPermalink }}" alt="Gallery Image" class="w-full h-full object-cover rounded-lg" data-lightbox="gallery" />
+          </span>
+        </div>
+      {{ end }}
+    {{ end }}
+  </section>
+</section>  */}}
+
+<section class="flex flex-col gap-6 w-full px-6 md:px-12 lg:px-20 justify-center">
+  <h1 class="text-5xl text-center uppercase font-bold tracking-wide">{{ $title | default "Photo Gallery" }}</h1>
+  
+  <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 w-full justify-center items-center">
+    {{ $images := resources.Match $folder }}
+    {{ range $images }}
+      {{ with . | images.Filter $filter }}
+        <div class="relative group overflow-hidden rounded-lg shadow-lg">
+          <img src="{{ .RelPermalink }}" alt="Gallery Image" class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105 rounded-lg" data-lightbox="gallery" />
+        </div>
+      {{ end }}
+    {{ end }}
+  </section>
+</section>
+
+
+

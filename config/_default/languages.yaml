@@ -40,6 +40,6 @@ ko:
      - name: 결혼 세부
        url: /#details
        weight: 20
-     - name: RSVP
-       url: /#rsvp
+     - name: 사진
+       url: /#gallery
        weight: 30

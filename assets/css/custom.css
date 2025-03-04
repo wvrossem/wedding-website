@@ -32,7 +32,7 @@ li {
 
 .nav-item {
     font-family: Allura;
-    font-size: x-large;
+    font-size: large;
 }
 
 img {
@@ -51,13 +51,20 @@ span {
 html[lang="ko"] h2, html[lang="ko"] h3, html[lang="ko"] h4, html[lang="ko"] h5, html[lang="ko"] h6 {
   font-family: "Noto Serif KR", serif;
   font-optical-sizing: auto;
-  font-weight: 900;
+  font-weight: auto;
   font-style: normal;
+  font-size: x-large;
 }
 
 html[lang="ko"] body, html[lang="ko"] li {
   font-family: "Noto Serif KR", serif;
   font-optical-sizing: auto;
-  font-weight: 900;
+  font-weight: auto;
   font-style: normal;
+  font-size: x-large;
+}
+
+a {
+    color: #594e4d;
+    font-size: large;
 }
