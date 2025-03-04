@@ -38,22 +38,16 @@ sections:
     content:
       items:
         - title: 저희 결혼식에 초대합니다
-          # text: <span class="text-xl font-bold tracking-tight text-pretty"> 귀한 시간을 내주셔서 축하해 주시면 감사하겠습니다.</span>
+          text: <section class="text-2xl tracking-tight text-pretty"><div class="flex justify-between items-center w-full border-b border-gray-300 py-2 text-lg"><span class="flex-1 text-center">반로셈 히슬랭</span><span class="flex-1 text-center">故 리켄달 린다</span><span class="flex-1 text-center font-semibold">차남</span><span class="flex-1 text-center">워우터</span></div><div class="flex justify-between items-center w-full border-b border-gray-300 py-2 text-lg"><span class="flex-1 text-center">故 김판태</span><span class="flex-1 text-center">최소영</span><span class="flex-1 text-center font-semibold">자녀</span><span class="flex-1 text-center">수진</span></div><br/><p></p><br/><p>🗓️ 2025년 04월 26일 토요일 오후 12시</p><br/><p>📍 부천한옥체험마을</p></section>
           feature_icon: chevron-right
           features:
-            - ":spiral_calendar: 2025년 04월 26일 오후 12시"
-            - ":round_pushpin: 부천한옥체험마을"
+            # - ":spiral_calendar: 2025년 04월 26일 오후 12시"
+            # - ":round_pushpin: 부천한옥체험마을"
           # Upload image to `assets/media/` and reference the filename here
           image: photoshoot/CHU_0666.jpg
-          classes: "text-6xl font-bold tracking-tight text-pretty"
         - title: 부천한옥체험마을 장소
-          text: ""
+          text: '<section class="text-2xl tracking-tight text-pretty"><p>📍 경기도 부천시 길주로1 (상동 529-2)</p></br><p>🚗 주차할 수 있습니다.</p><br/><p><img src="/media/icons/custom/navermap.ico" alt="🇳" class="w-6 h-6 inline-block align-middle"/> 네이버 지도: <a href="https://naver.me/5Bcqqp9i" target="_blank" rel="noopener">https://naver.me/5Bcqqp9i</a></p><br/><p><img src="/media/icons/custom/kakaomap.ico" alt="🇰" class="w-6 h-6 inline-block align-middle"/> 카카오맵: <a href="https://place.map.kakao.com/26093115" target="_blank" rel="noopener">https://place.map.kakao.com/26093115</a></p>'
           feature_icon: chevron-right
-          features:
-            - ":round_pushpin: 경기도 부천시 길주로1 (상동 529-2)"
-            - ":car: 주차할 수 있습니다."
-            - "네이버 지도: https://naver.me/5Bcqqp9i"
-            - "카카오맵: https://place.map.kakao.com/26093115"
           # Upload image to `assets/media/` and reference the filename here
           image: bucheon-hanok-village/SSI_20210128120855_V.jpg
     design:
@@ -64,18 +58,15 @@ sections:
     content:
       items:
         - title: 결혼식 식사
-          text: <span class="text-xl font-bold tracking-tight text-pretty"> 부천시에 있을 것입니다. 추후 안내 예정.</span>
+          text: <span class="text-2xl font-bold tracking-tight text-pretty"> 부천시에 있을 것입니다. 추후 안내 예정.</span>
           feature_icon: chevron-right
           features:
-            - 추후 안내 예정.
+            # - 추후 안내 예정.
           # Upload image to `assets/media/` and reference the filename here
           image: galbitang3.jpg
         - title: 💌 마음을 전하는 곳
-          text: <span class="text-2xl font-bold tracking-tight text-pretty"> 소중한 축하의 마음을 전해주셔서 진심으로 감사합니다. 직접 축의금을 전달하기 어려우신 분들을 위해 아래 계좌 정보를 안내드립니다. 따뜻한 마음과 함께 행복을 나누겠습니다. 💖</span>
+          text: '<div class="text-2xl font-bold tracking-tight text-pretty"><p>소중한 축하의 마음을 전해주셔서 진심으로 감사합니다. 직접 축의금을 전달하기 어려우신 분들을 위해 아래 계좌 정보를 안내드립니다. 따뜻한 마음과 함께 행복을 나누겠습니다. 💖</p><br/><p>신부: 우리은행 1002-549-0982-31 (예금주: 김수진)</p></div>'
           feature_icon: chevron-right
-          features:
-            - "혼주 (예금주: 최소영)"
-            - "국민은행 648425-96-104849"
           image: wijdan-mq-H5yiRXDUkto-unsplash.jpg
     design:
       # Section background color (CSS class)
