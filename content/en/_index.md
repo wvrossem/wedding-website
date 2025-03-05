@@ -62,7 +62,6 @@ sections:
         # Section background color (CSS class)
         # css_class: "bg-white-100 dark:bg-gray-900"
   - block: cta-image-paragraph
-    id: details
     content:
       items:
         - title: Wedding reception
@@ -82,8 +81,8 @@ sections:
             - "**👘 Renting a Hanbok**: We and some of our guests will be dressed in traditional Korean hanbok, but wearing one is optional for guests. If you’d like one, the popular rentals for foreigners are near Bukchon Hanok Village and Gyeongbokgung Station in Seoul—consider renting Friday to Sunday and asking for a wedding hanbok. There are also rentals in Bucheon, near the venue, but some are a bit more premium."
           # Upload image to `assets/media/` and reference the filename here
           image: winged-jedi-hgwbEL9Yn90-unsplash.jpg
-        - title: "Wedding Gifts: Your Presence is the Best Gift"
-          text: "Your presence is the best gift; thank you for your love and support. In Korea, it is customary to give a monetary gift at weddings. If you wish, you can contribute to our bank account to help us build our future together."
+        - title: "Wedding gifts"
+          text: "Your presence is the best gift; thank you for your love and support! In Korea, it is customary to give a monetary gift at weddings. If you wish, you can contribute to our bank account to help us build our future together."
           feature_icon: chevron-right
           features:
             - "Account Name: **Wouter Van Rossem**" 
@@ -98,15 +97,15 @@ sections:
           features:
             - "Travel to South Korea: via Incheon International Airport (ICN), the main airport serving Seoul. Be here a day or two in advance."
             - "We will be staying in a hotel near the Bucheon Hanok Village. Feel free to meet us there and book accommodation such as The Koryo Hotel or Hotel Polaris in Bucheon-si."
-            - "You can also easily get to Bucheon Hanok Village by subway from central Seoul—approximately an hour away (Seoul Metro Line 7, Stop 삼산체육관 (757, Samsan Gymnasium))."
+            - "You can also easily get to Bucheon Hanok Village by subway from central Seoul—approximately an hour away (Seoul Metro Line 7, Stop 삼산체육관 (757, Samsan Gymnasium), Exit 5)."
           image: map-bucheon.png
-        - title: Useful Apps
+        - title: Useful apps
           text: "Here are some useful apps for navigating Korea, search them on your device's app store."
           feature_icon: chevron-right
           features:
-            - "📍 **Navigation**: 'Naver Map', The best map app for Korea, with accurate directions and public transit info."
-            - "🗣️ **Translation**: 'Papago' / 'Google Translate', Great for general translations and image-based text recognition. Papago pecializes in Korean translations and often provides better accuracy."
-            - "🚖 **Taxi**: 'Kakao T', The most popular taxi app in Korea. Taxis are affordable, and you can easily request a ride with your destination already set, making for a hassle-free experience."
+            - "📍 **Navigation**: *Naver Map*, The best map app for Korea, with accurate directions and public transit info."
+            - "🗣️ **Translation**: *Papago* or *Google Translate*, Great for general translations and image-based text recognition. Papago specializes in Korean translations and often provides better accuracy."
+            - "🚖 **Taxi**: *Kakao T*, The most popular taxi app in Korea. Taxis are affordable, and you can easily request a ride with your destination already set, making for a hassle-free experience."
           image: fikri-rasyid-HGLCvGWujGE-unsplash.jpg
       # design:
         # Section background color (CSS class)
