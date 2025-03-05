@@ -35,7 +35,7 @@ sections:
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
   - block: cta-image-paragraph
-    id: details
+    id: invitation
     content:
       items:
         - title: Wij nodigen jullie uit voor ons bruiloftsfeest.
@@ -59,6 +59,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: bucheon-hanok-village/SSI_20210128120855_V.jpg
   - block: cta-image-paragraph
+    id: tips
     content:
       items:
         - title: Receptie

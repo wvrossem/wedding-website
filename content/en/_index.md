@@ -9,6 +9,7 @@ design:
 
 sections:
   - block: hero
+    id: top
     content:
       title: ""
       text: 
@@ -35,7 +36,7 @@ sections:
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
   - block: cta-image-paragraph
-    id: details
+    id: invitation
     content:
       items:
         - title: We invite you to our wedding celebration
@@ -62,6 +63,7 @@ sections:
         # Section background color (CSS class)
         # css_class: "bg-white-100 dark:bg-gray-900"
   - block: cta-image-paragraph
+    id: tips
     content:
       items:
         - title: Wedding reception
@@ -111,7 +113,6 @@ sections:
         # Section background color (CSS class)
         # css_class: "bg-gray-900 dark:bg-gray-900"
   - block: cta-image-paragraph
-    id: details
     content:
       items:
         - title: Ceremony details

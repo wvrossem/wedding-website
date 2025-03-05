@@ -17,15 +17,18 @@ nl:
    description: Sujin & Wouter nodigen jullie uit voor hun huwelijksfeest.
  menu:
    main:
-     - name: Uitnodiging
-       url: '#top'
-       weight: 10
-     - name: Details
-       url: /#details
-       weight: 20
-     - name: RSVP
-       url: /#rsvp
-       weight: 30
+    - name: Home
+      url: /#top
+      weight: 10
+    - name: Uitnodiging
+      url: /#invitation
+      weight: 20
+    - name: Details & tips
+      url: /#tips
+      weight: 30
+    - name: Gallery
+      url: /#gallery
+      weight: 40
 ko:
  languageCode: ko
  contentDir: content/ko
