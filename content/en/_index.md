@@ -54,7 +54,7 @@ sections:
             - "Location: 부천한옥체험마을 (**Bucheon Hanok Village**)"
             - "**Address**: 경기도 부천시 길주로1 (상동 529-2)"
             - "**Metro stop**: Seoul Metro Line 7, Stop 삼산체육관 (757, Samsan Gymnasium), follow the signs for Exit 5"
-            - "**Google Maps**: https://maps.app.goo.gl/N2yqpSjp6s9qMFAp6"
+            - "**Google Maps**: https://maps.app.goo.gl/N2yqpSjp6s9qMFAp6 (Beware: Google Maps functions poorly in South Korea.)"
             - "**Naver Maps**: https://naver.me/5Bcqqp9i"
             - "**Kakao Maps**: https://place.map.kakao.com/26093115"
           # Upload image to `assets/media/` and reference the filename here
