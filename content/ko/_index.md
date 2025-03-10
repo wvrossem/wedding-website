@@ -58,14 +58,14 @@ sections:
     content:
       items:
         - title: 결혼식 식사
-          text: <span class="text-2xl font-bold tracking-tight text-pretty"> 부천시에 있을 것입니다. 추후 안내 예정.</span>
+          text: <span class="text-2xl font-bold tracking-tight text-pretty">야외 뷔페식으로 진행됩니다.</span>
           feature_icon: chevron-right
           features:
             # - 추후 안내 예정.
           # Upload image to `assets/media/` and reference the filename here
           image: galbitang3.jpg
         - title: 💌 마음을 전하는 곳
-          text: '<div class="text-2xl tracking-tight text-pretty"><p>소중한 축하의 마음을 전해주셔서 진심으로 감사합니다. 직접 축의금을 전달하기 어려우신 분들을 위해 아래 계좌 정보를 안내드립니다. 따뜻한 마음과 함께 행복을 나누겠습니다. 💖</p><br/><div class="text-2xl"><p><b>신부</b>:<br/> 우리 1002-549-098231 김수진</p><br/><p><b>신부측 어머니</b>:<br/> 국민 648425-96-104849 최소영</p><br/><p><b>신랑</b>:<br/> 우리 1002-865-277361 Wouter&nbsp;Van&nbsp;Rossem</p></div></div>'
+          text: '<div class="text-2xl tracking-tight text-pretty"><p>참석이 어려워 직접 축하를 전하지 못하는 분들을 위해 계좌번호를 기재하였습니다. 전해주시는 진심은 소중하게 간직하여 좋은 부부의 모습으로 보답하겠습니다. 💖</p><br/><div class="text-2xl"><p><b>신부</b>:<br/> 우리 1002-549-098231 김수진</p><br/><p><b>신부측 어머니</b>:<br/> 국민 648425-96-104849 최소영</p><br/><p><b>신랑</b>:<br/> 우리 1002-865-277361 Wouter&nbsp;Van&nbsp;Rossem</p></div></div>'
           feature_icon: chevron-right
           image: wijdan-mq-H5yiRXDUkto-unsplash.jpg
     design:
