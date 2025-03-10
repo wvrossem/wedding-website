@@ -12,6 +12,7 @@ body {
     font-weight: auto;
     font-style: normal;
     font-size: large;
+    word-break: keep-all;
 }
 
 .nav-item {
