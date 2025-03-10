@@ -18,16 +18,16 @@ nl:
  menu:
    main:
     - name: Home
-      url: /#top
+      url: '#top'
       weight: 10
     - name: Uitnodiging
-      url: /#invitation
+      url: '#invitation'
       weight: 20
     - name: Details & tips
-      url: /#tips
+      url: '#tips'
       weight: 30
     - name: Gallery
-      url: /#gallery
+      url: '#gallery'
       weight: 40
 ko:
  languageCode: ko
@@ -41,11 +41,11 @@ ko:
        url: '#top'
        weight: 10
      - name: 결혼 세부
-       url: /#details
+       url: '#details'
        weight: 20
      - name: 전통혼례안내
-       url: /#ceremony
+       url: '#ceremony'
        weight: 20
      - name: 사진
-       url: /#gallery
+       url: '#gallery'
        weight: 30
