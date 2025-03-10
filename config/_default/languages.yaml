@@ -43,6 +43,9 @@ ko:
      - name: 결혼 세부
        url: /#details
        weight: 20
+     - name: 전통혼례안내
+       url: /#ceremony
+       weight: 20
      - name: 사진
        url: /#gallery
        weight: 30

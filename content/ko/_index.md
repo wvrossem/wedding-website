@@ -54,7 +54,7 @@ sections:
       # Section background color (CSS class)
       css_class: "bg-white-100 dark:bg-gray-900"
   - block: cta-image-paragraph
-    id: details
+    id: reception
     content:
       items:
         - title: 결혼식 식사
@@ -72,7 +72,7 @@ sections:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"  
   - block: cta-image-paragraph
-    id: details
+    id: ceremony
     content:
       items:
         - title: 전통혼례안내
