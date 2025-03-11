@@ -32,9 +32,9 @@ nl:
 ko:
  languageCode: ko
  contentDir: content/ko
- title: 결혼 축하 초대장
+ title: "부천한옥체험마을 전통혼례"
  params:
-   description: 수진 & 워우터 결혼식에 초대합니다
+   description: ""
  menu:
    main:
      - name: 초대장

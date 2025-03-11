@@ -1,5 +1,6 @@
 ---
-title: '초대장'
+title: '수진 워우터의 결혼식 초대장'
+description: ""
 date: 2023-10-24
 type: landing
 

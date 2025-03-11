@@ -2,6 +2,8 @@
 title: 'Invitation'
 date: 2023-10-24
 type: landing
+images:
+  - "featured.jpg"
 
 design:
   # Default section spacing
