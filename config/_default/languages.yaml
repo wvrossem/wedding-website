@@ -12,9 +12,11 @@ en:
 nl:
  languageCode: nl
  contentDir: content/nl
- title: Huwelijksfeestuitnodiging
+ title: Sujin & Wouter's Bruiloft
  params:
-   description: Sujin & Wouter nodigen jullie uit voor hun huwelijksfeest.
+   marketing:
+    seo:
+      description: 'Sujin & Wouter nodigen jullie uit voor hun bruiloft op zaterdag, 26 April, 2025 - 12h00 te Bucheon, Zuid-Korea.'
  menu:
    main:
     - name: Home
@@ -32,9 +34,11 @@ nl:
 ko:
  languageCode: ko
  contentDir: content/ko
- title: "부천한옥체험마을 전통혼례"
+ title: "수진 워우터의 결혼식"
  params:
-   description: ""
+   marketing:
+    seo:
+      description: '저희 결혼식에 초대합니다. 2025년 04월 26일 토요일 오후 12시, 부천한옥체험마을에, 전통혼례입니다'
  menu:
    main:
      - name: 초대장

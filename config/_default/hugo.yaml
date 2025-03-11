@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Sujin & Wouter's Wedding Event # Website name
+title: Sujin & Wouter's Wedding Celebration # Website name
 baseURL: "https://wvrossem.github.io/wedding-website/" # Website URL
 
 ############################
