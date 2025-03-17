@@ -66,7 +66,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: galbitang3.jpg
         - title: 💌 마음을 전하는 곳
-          text: '<div class="text-2xl tracking-tight text-pretty"><p>참석이 어려워 직접 축하를 전하지 못하는 분들을 위해 계좌번호를 기재하였습니다. 전해주시는 진심은 소중하게 간직하여 좋은 부부의 모습으로 보답하겠습니다. 💖</p><br/><div class="text-2xl"><p><b>신부</b>:<br/> 우리 1002-549-098231 김수진</p><br/><p><b>신부측 어머니</b>:<br/> 국민 648425-96-104849 최소영</p><br/><p><b>신랑</b>:<br/> 우리 1002-865-277361 Wouter&nbsp;Van&nbsp;Rossem</p></div></div>'
+          text: '<div class="text-2xl tracking-tight text-pretty"><p>참석이 어려워 직접 축하를 전하지 못하는 분들을 위해 계좌번호를 기재하였습니다. 전해주시는 진심은 소중하게 간직하여 좋은 부부의 모습으로 보답하겠습니다. 💖</p><br/><div class="text-2xl"><p><b>신부</b>:<br/> 국민 725602-00-069166 김수진</p><br/><p><b>신부측 어머니</b>:<br/> 국민 648425-96-104849 최소영</p><br/><p><b>신랑</b>:<br/> 우리 1002-865-277361 Wouter&nbsp;Van&nbsp;Rossem</p></div></div>'
           feature_icon: chevron-right
           image: wijdan-mq-H5yiRXDUkto-unsplash.jpg
     design:
