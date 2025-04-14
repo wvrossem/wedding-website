@@ -72,11 +72,16 @@ sections:
           text: ""
           feature_icon: chevron-right
           features:
-            - "The wedding reception will take place immediately after the ceremony."
-            - "Date and time: After the wedding ceremony"
-            - "Location: To be confirmed (Walking distance from the venue)"
+            - "Lunch will be served buffet-style immediately following the ceremony at the same location."
+            - "Time: After the wedding ceremony (around 13h30)"
+            - "Location: Bucheon Hanok Village"
           # Upload image to `assets/media/` and reference the filename here
           image: 8095743451_afdc95d75b_o.jpg
+          button:
+            text: "Wat staat er op het menu? Bekijk menu (PDF)"
+            url: catering-menu-buffet.pdf
+            icon_pack: hero
+            icon: document
         - title: Dress Code
           text: ""
           feature_icon: chevron-right

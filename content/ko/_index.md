@@ -59,7 +59,7 @@ sections:
     content:
       items:
         - title: 결혼식 식사
-          text: <span class="text-2xl font-bold tracking-tight text-pretty">야외 뷔페식으로 진행됩니다.</span>
+          text: <span class="text-2xl font-bold tracking-tight text-pretty">결혼식이 끝난 후, 같은 장소에서 뷔페 형식의 점심 식사가 제공될 예정입니다.</span>
           feature_icon: chevron-right
           features:
             # - 추후 안내 예정.

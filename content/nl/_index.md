@@ -66,11 +66,16 @@ sections:
           text: ""
           feature_icon: chevron-right
           features:
-            - "De huwelijksreceptie vindt direct na de ceremonie plaats."
-            - "Datum en tijd: Zaterdag 26 april 2025, na de huwelijksceremonie."
-            - "Locatie: Wordt nog bevestigd. (Op wandelafstand van de huwelijksceremonie)"
+            - "De lunch wordt in buffetstijl geserveerd direct na de ceremonie op dezelfde locatie."
+            - "Tijd: Na de huwelijksceremonie (rond 13u30)"
+            - "Locatie: Bucheon Hanok Village"
           # Upload image to `assets/media/` and reference the filename here
           image: 8095743451_afdc95d75b_o.jpg
+          button:
+            text: "Wat staat er op het menu? Bekijk het menu (PDF)"
+            url: catering-menu-buffet.pdf
+            icon_pack: hero
+            icon: document
         - title: Dress Code
           text: ""
           feature_icon: chevron-right
