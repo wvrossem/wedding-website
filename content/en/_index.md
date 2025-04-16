@@ -78,7 +78,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: 8095743451_afdc95d75b_o.jpg
           button:
-            text: "Wat staat er op het menu? Bekijk menu (PDF)"
+            text: "What's on the table? View the menu (PDF)"
             url: catering-menu-buffet.pdf
             icon_pack: hero
             icon: document
