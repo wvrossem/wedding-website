@@ -39,7 +39,7 @@ sections:
     content:
       items:
         - title: 저희 결혼식에 초대합니다
-          text: <section class="text-2xl tracking-tight text-pretty"><div class="flex justify-between items-center w-full py-2 text-lg"><span class="flex-1 text-center">반로셈 <br />히슬랭</span><span class="flex-1 text-center">故 리켄달 <br />린다</span><span class="flex-1 text-center font-semibold">차남</span><span class="flex-1 text-center">워우터</span></div><hr /><div class="flex justify-between items-center w-full py-2 text-lg"><span class="flex-1 text-center">故 김판태</span><span class="flex-1 text-center">최소영</span><span class="flex-1 text-center font-semibold">자녀</span><span class="flex-1 text-center">수진</span></div><br/><p></p><br/><p>🗓️ 2025년 04월 26일 토요일 오후 12시</p><br/><p>📍 부천한옥체험마을</p><br /> <p>💕 <b>전통혼례</b> 방식으로 본식과 폐백을 올립니다</p></section>
+          text: <section class="text-2xl tracking-tight text-pretty"><p>🗓️ 2025년 04월 26일 토요일 오후 12시</p><br/><p>📍 부천한옥체험마을</p><br /> <p>💕 <b>전통혼례</b> 방식으로 본식과 폐백을 올립니다</p></section>
           feature_icon: chevron-right
           features:
             # - ":spiral_calendar: 2025년 04월 26일 오후 12시"
@@ -66,7 +66,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: galbitang3.jpg
         - title: 💌 마음을 전하는 곳
-          text: '<div class="text-2xl tracking-tight text-pretty"><p>참석이 어려워 직접 축하를 전하지 못하는 분들을 위해 계좌번호를 기재하였습니다. 전해주시는 진심은 소중하게 간직하여 좋은 부부의 모습으로 보답하겠습니다. 💖</p><br/><div class="text-2xl"><p><b>신부</b>:<br/> 국민 725602-00-069166 김수진</p><br/><p><b>신부측 어머니</b>:<br/> 국민 648425-96-104849 최소영</p><br/><p><b>신랑</b>:<br/> 우리 1002-865-277361 Wouter&nbsp;Van&nbsp;Rossem</p></div></div>'
+          text: '<div class="text-2xl tracking-tight text-pretty"><p>참석이 어려워 직접 축하를 전하지 못하는 분들을 위해 계좌번호를 기재하였습니다. 전해주시는 진심은 소중하게 간직하여 좋은 부부의 모습으로 보답하겠습니다.'
           feature_icon: chevron-right
           image: wijdan-mq-H5yiRXDUkto-unsplash.jpg
     design:

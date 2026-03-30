@@ -87,11 +87,6 @@ sections:
         - title: "Geschenken"
           text: "Jouw aanwezigheid is het mooiste cadeau; bedankt voor je liefde en steun! In Korea is het gebruikelijk om een geld als cadeau te geven op bruiloften. Als je wilt, kun je een storting doen op onze bankrekening om ons te helpen onze toekomst samen op te bouwen."
           feature_icon: chevron-right
-          features:
-            - "Naam: **Wouter Van Rossem**" 
-            - "Account nummer (IBAN): **BE89 0015 3168 7085**"
-            - "BIC: **GEBABEBB**"
-            - "Bank name: **BNP Paribas Fortis**"
           # Upload image to `assets/media/` and reference the filename here
           image: wijdan-mq-H5yiRXDUkto-unsplash.jpg
         - title: Reistips en voorafgaande ontmoeting

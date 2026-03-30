@@ -93,11 +93,6 @@ sections:
         - title: "Wedding gifts"
           text: "Your presence is the best gift; thank you for your love and support! In Korea, it is customary to give a monetary gift at weddings. If you wish, you can contribute to our bank account to help us build our future together."
           feature_icon: chevron-right
-          features:
-            - "Account Name: **Wouter Van Rossem**" 
-            - "Account Number (IBAN): **BE89 0015 3168 7085**"
-            - "BIC: **GEBABEBB**"
-            - "Bank Name: **BNP Paribas Fortis**"
           # Upload image to `assets/media/` and reference the filename here
           image: wijdan-mq-H5yiRXDUkto-unsplash.jpg
         - title: Travel tips and pre-meeting
